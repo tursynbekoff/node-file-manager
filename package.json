@@ -1,0 +1,15 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js -- --username=tursynbekoff"
+  },
+  "repository": {
+    "type": "git",
+    "url": "file-manager"
+  },
+  "author": "tursynbekoff",
+  "license": "ISC"
+}
